@@ -18,6 +18,3 @@
   <img align="center" width=18px src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt="hibernate"> Hibernate
   <img align="center" width=18px src="https://user-images.githubusercontent.com/87744767/155386269-9e77921b-7ea0-486b-b1a8-68d8fd49b9c7.png" alt="mysql"> MySQL
 </p>
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/87744767/155901714-7664c011-9cf8-40df-9619-22a5d458992b.png" width=650px>
-</p>
