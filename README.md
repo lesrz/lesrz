@@ -18,3 +18,8 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-FFFFFF?&logo=springboot&style=flat-square)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-FFFFFF?&logo=hibernate&logoColor=b2a573&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?&logo=mysql&style=flat-square)
+
+![Tools](https://img.shields.io/badge/-tools-222d3d?&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-FFFFFF?&logo=git&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?&logo=visualstudiocode&logoColor=36a2ee&style=flat-square)
+![Vim](https://img.shields.io/badge/-Vim-FFFFFF?&logo=vim&logoColor=019030&style=flat-square)
