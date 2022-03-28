@@ -1,5 +1,12 @@
-## lesrz - dev
-📚 **Tech stack**
+<h3>
+  <img src="https://user-images.githubusercontent.com/87744767/160494540-1b38acf7-62c3-47d8-83e8-28cdc55ad28d.gif" height="32px" align="center"/>
+  Hey there, I'm Leo 
+</h3>
+<h4><img src="https://user-images.githubusercontent.com/87744767/160493598-bdd5768c-4027-4947-9186-31b86f96d3a0.gif" height="16px" align="center"/> A software creator focused on building smooth web experiences.</h4>
+
+## 
+
+<h5><img src="https://user-images.githubusercontent.com/87744767/160493876-6de34e53-f397-40aa-803d-9782280a10ca.gif" height="16px" align="center"/> <b>Tech stack</b></h5>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-e8ebec?&logo=TypeScript&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e8ebec?&logo=JavaScript&logoColor=dd9c25&style=flat-square)
@@ -19,3 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-e8ebec?&logo=git&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e8ebec?&logo=visualstudiocode&logoColor=36a2ee&style=flat-square)
 ![Vim](https://img.shields.io/badge/-Vim-e8ebec?&logo=vim&logoColor=019030&style=flat-square)
+
+## 
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lesrz&theme=graywhite&hide=html,css,scss&custom_title=Languages&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
