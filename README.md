@@ -29,5 +29,5 @@
 
 ## 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lesrz&theme=graywhite&hide=html,css,scss&custom_title=Languages&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lesrz&theme=graywhite&hide=html,css,scss&custom_title=Languages&langs_count=8&layout=compact)](https://github.com/lesrz?tab=repositories)
 
