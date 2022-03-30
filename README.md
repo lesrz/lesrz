@@ -51,5 +51,5 @@
 
 <p>
   <img src="https://user-images.githubusercontent.com/87744767/160761527-91f514b6-6df6-42da-906b-ee3753e6edcb.gif" height="12px" align="bottom"/>
-  <sup><sub><a href="https://lordicons.com">Animated icons from LordIcon</a></sub></sup>
+  <sup><sub><a href="https://lordicon.com">Animated icons from LordIcon</a></sub></sup>
 </p>
