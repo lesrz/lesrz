@@ -43,7 +43,7 @@
 
 ## 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lesrz&theme=graywhite&hide=html,css,scss&custom_title=Languages&langs_count=8&layout=compact)](https://github.com/lesrz?tab=repositories)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsrzar&theme=graywhite&hide=html,css,scss&custom_title=Languages&langs_count=8&layout=compact)](https://github.com/lsrzar?tab=repositories)
 
 <p>
   <img src="https://user-images.githubusercontent.com/87744767/160761527-91f514b6-6df6-42da-906b-ee3753e6edcb.gif" height="12px" align="bottom"/>
