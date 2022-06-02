@@ -27,19 +27,16 @@
 </h5>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-e8ebec?&logo=TypeScript&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e8ebec?&logo=JavaScript&logoColor=dd9c25&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-e8ebec?&logo=java&logoColor=e01e23&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e8ebec?&logo=JavaScript&logoColor=FFC04D&style=flat-square)
 
 ![Next](https://img.shields.io/badge/-Next-e8ebec?&logo=nextdotjs&logoColor=222222&style=flat-square)
 ![React](https://img.shields.io/badge/-React-e8ebec?&logo=React&logoColor=189AB4&style=flat-square)
 ![Svelte](https://img.shields.io/badge/-Svelte-e8ebec?&logo=svelte&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-e8ebec?&logo=Angular&logoColor=FF0000&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-e8ebec?&logo=sass&style=flat-square)
 
-![Node](https://img.shields.io/badge/-Node-e8ebec?&logo=nodedotjs&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-e8ebec?&logo=springboot&style=flat-square)
-![Hibernate](https://img.shields.io/badge/-Hibernate-e8ebec?&logo=hibernate&logoColor=b2a573&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-e8ebec?&logo=mysql&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node-e8ebec?&logo=nodedotjs&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-e8ebec?&logo=mongodb&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-e8ebec?&logo=postgresql&style=flat-square)
 
 ## 
 
