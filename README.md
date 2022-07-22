@@ -1,30 +1,28 @@
-<h3><sup><img src="https://user-images.githubusercontent.com/87744767/160494540-1b38acf7-62c3-47d8-83e8-28cdc55ad28d.gif" height="40px" align="left" /></sup>
+<h3><img src="https://user-images.githubusercontent.com/87744767/160494540-1b38acf7-62c3-47d8-83e8-28cdc55ad28d.gif" height="40px" width="40px" align="left" />
   Hey there, I'm Leo 
 </h3>
 <h6>
   ⠀⠀⠀⠀ I 
-  <sub><img 
-       src="https://user-images.githubusercontent.com/87744767/160755257-fded066f-f12e-4e75-8f58-c875aaea2c00.gif" 
-       height="14px" align="center"
-            /></sub>
+  <img 
+     src="https://user-images.githubusercontent.com/87744767/160755257-fded066f-f12e-4e75-8f58-c875aaea2c00.gif" 
+     height="14px" width="14px" align="center"
+  />
    TypeScript
 </h6>
 <h4>
-  <sub>
   <img 
        src="https://user-images.githubusercontent.com/87744767/160758054-952c3dfc-ab12-426c-896c-1bbdc5fc5aa6.gif" 
-       height="16px" align="center" 
-       /></sub>
+       height="16px" width="16px" align="center" 
+   />
     I'm a software creator focused on building smooth web experiences.
 </h4>
 
 ##
 
 <h5>
-  <sub>
   <img 
        src="https://user-images.githubusercontent.com/87744767/160758710-8138e749-3fdd-46a5-98a9-5f06aadb0537.gif" 
-       height="16px" align="left" /></sub>
+       height="16px" width="16px" align="left" />
      <b>Tech stack</b>
 </h5>
 
