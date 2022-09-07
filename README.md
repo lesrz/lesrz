@@ -14,7 +14,7 @@
        src="https://user-images.githubusercontent.com/87744767/160758054-952c3dfc-ab12-426c-896c-1bbdc5fc5aa6.gif" 
        height="16px" width="16px" align="center" 
    />
-    I'm a software creator focused on building smooth web experiences.
+    I'm a software creator focused on building smooth experiences.
 </h4>
 
 ##
@@ -29,10 +29,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-e8ebec?&logo=TypeScript&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e8ebec?&logo=JavaScript&logoColor=FFC04D&style=flat-square)
 
-![Next](https://img.shields.io/badge/-Next-e8ebec?&logo=nextdotjs&logoColor=222222&style=flat-square)
 ![React](https://img.shields.io/badge/-React-e8ebec?&logo=React&logoColor=189AB4&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-e8ebec?&logo=React&logoColor=189AB4&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-e8ebec?&logo=redux&logoColor=7248b6&style=flat-square)
+![Next](https://img.shields.io/badge/-Next-e8ebec?&logo=nextdotjs&logoColor=222222&style=flat-square)
+
 ![Svelte](https://img.shields.io/badge/-Svelte-e8ebec?&logo=svelte&style=flat-square)
-![Sass](https://img.shields.io/badge/-Sass-e8ebec?&logo=sass&style=flat-square)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-e8ebec?&logo=svelte&style=flat-square)
+
 
 ![Node.js](https://img.shields.io/badge/-Node-e8ebec?&logo=nodedotjs&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-e8ebec?&logo=mongodb&style=flat-square)
