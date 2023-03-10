@@ -1,14 +1,15 @@
-<h3><img src="https://user-images.githubusercontent.com/87744767/160494540-1b38acf7-62c3-47d8-83e8-28cdc55ad28d.gif" height="40px" width="40px" align="left" />
-  Hey there, I'm Leo 
+<h3>
+  Hey there, I'm Leo<img src="https://user-images.githubusercontent.com/87744767/160494540-1b38acf7-62c3-47d8-83e8-28cdc55ad28d.gif" height="40px" width="40px" align="center" />
 </h3>
 <h6>
-  ⠀⠀⠀⠀ I 
+  I 
   <img 
      src="https://user-images.githubusercontent.com/87744767/160755257-fded066f-f12e-4e75-8f58-c875aaea2c00.gif" 
      height="14px" width="14px" align="center"
   />
    TypeScript
 </h6>
+
 <h4>
   <img 
        src="https://user-images.githubusercontent.com/87744767/160758054-952c3dfc-ab12-426c-896c-1bbdc5fc5aa6.gif" 
