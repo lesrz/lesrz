@@ -45,7 +45,7 @@
 
 ## 
 
-![lsrzar's GitHub stats](https://github-readme-stats-tawny-kappa.vercel.app/api?username=lsrzar&theme=swift&hide=stars,issues&show=reviews&show_icons=true&icon_color=2C2C2C)
+![lsrzar's GitHub stats](https://github-readme-stats-tawny-kappa.vercel.app/api?username=lsrzar&theme=swift&hide=stars,issues&show=reviews&show_icons=true&icon_color=2C2C2C&title_color=2C2C2C&text_color=2C2C2C)
 
 <p>
   <img src="https://user-images.githubusercontent.com/87744767/160761527-91f514b6-6df6-42da-906b-ee3753e6edcb.gif" height="12px" align="bottom"/>
