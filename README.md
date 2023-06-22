@@ -45,7 +45,7 @@
 
 ## 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsrzar&count_private=true&theme=graywhite&hide=html,scss,css,shell,less,python&custom_title=Languages&langs_count=8&layout=compact)](https://github.com/lsrzar?tab=repositories)
+![lsrzar's GitHub stats](https://github-readme-stats-tawny-kappa.vercel.app/api?username=lsrzar&theme=buefy&hide=stars,issues&show=reviews&show_icons=true&icon_color=8E72EE)
 
 <p>
   <img src="https://user-images.githubusercontent.com/87744767/160761527-91f514b6-6df6-42da-906b-ee3753e6edcb.gif" height="12px" align="bottom"/>
