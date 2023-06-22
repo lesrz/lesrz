@@ -32,9 +32,9 @@
 
 ![React](https://img.shields.io/badge/-React-e8ebec?&logo=React&logoColor=222222&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-e8ebec?&logo=React&logoColor=222222&style=flat-square)
-![Redux](https://img.shields.io/badge/-Redux-e8ebec?&logo=redux&logoColor=222222&style=flat-square)
 ![Next](https://img.shields.io/badge/-Next-e8ebec?&logo=nextdotjs&logoColor=222222&style=flat-square)
 
+![Redux](https://img.shields.io/badge/-Redux-e8ebec?&logo=redux&logoColor=222222&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-e8ebec?&logo=tailwindcss&logoColor=222222&style=flat-square)
 ![Framer](https://img.shields.io/badge/-Framer%20Motion-e8ebec?&logo=framer&logoColor=222222&style=flat-square)
 
