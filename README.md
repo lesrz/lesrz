@@ -31,9 +31,9 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-e8ebec?&logo=tailwindcss&logoColor=222222&style=flat-square)
 ![Framer](https://img.shields.io/badge/-Framer%20Motion-e8ebec?&logo=framer&logoColor=222222&style=flat-square)
 
-![Node.js](https://img.shields.io/badge/-Node-e8ebec?&logo=nodedotjs&style=flat-square&logoColor=222222)
+<!-- ![Node.js](https://img.shields.io/badge/-Node-e8ebec?&logo=nodedotjs&style=flat-square&logoColor=222222)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-e8ebec?&logo=mongodb&style=flat-square&logoColor=222222)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-e8ebec?&logo=postgresql&style=flat-square&logoColor=222222)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-e8ebec?&logo=postgresql&style=flat-square&logoColor=222222) -->
 
 ## 
 
