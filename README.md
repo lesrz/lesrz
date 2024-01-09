@@ -1,22 +1,15 @@
 <h3>
   Hey there, I'm Leo<img src="https://user-images.githubusercontent.com/87744767/160494540-1b38acf7-62c3-47d8-83e8-28cdc55ad28d.gif" height="40px" width="40px" align="center" />
 </h3>
-<h6>
-  I 
-  <img 
-     src="https://user-images.githubusercontent.com/87744767/160755257-fded066f-f12e-4e75-8f58-c875aaea2c00.gif" 
-     height="14px" width="14px" align="center"
-  />
-   TypeScript
-</h6>
 
-<h4>
+<p>
   <img 
        src="https://user-images.githubusercontent.com/87744767/160758054-952c3dfc-ab12-426c-896c-1bbdc5fc5aa6.gif" 
        height="16px" width="16px" align="center" 
    />
-    I'm a software creator focused on building smooth experiences.
-</h4>
+  Digital solutions developer.
+  Tailoring efficient code into elegant user journeys.
+</p>
 
 ##
 
@@ -32,7 +25,7 @@
 
 ![React](https://img.shields.io/badge/-React-e8ebec?&logo=React&logoColor=222222&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-e8ebec?&logo=React&logoColor=222222&style=flat-square)
-![Next](https://img.shields.io/badge/-Next-e8ebec?&logo=nextdotjs&logoColor=222222&style=flat-square)
+![Next](https://img.shields.io/badge/-Next.js-e8ebec?&logo=nextdotjs&logoColor=222222&style=flat-square)
 
 ![Redux](https://img.shields.io/badge/-Redux-e8ebec?&logo=redux&logoColor=222222&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-e8ebec?&logo=tailwindcss&logoColor=222222&style=flat-square)
